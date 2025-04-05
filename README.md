@@ -21,7 +21,7 @@ Manual trading in crypto is time-consuming and emotionally driven. Traders often
 Our system is built on **three interlinked workflows**, each performing specific tasks:
 
 ### 1.  Trading Workflow (Runs 3x Daily)
-- Retrieves **Top 15 boosted tokens** from [DEX Screener](https://www.dexscreener.com).
+- Retrieves **Top 15 boosted tokens** from DEX Screener
 - Scans user wallet holdings and current portfolio exposure.
 - Uses **Perplexity Sonar Pro Agent** to analyze market conditions.
 - **Trader Brain AI** selects:
@@ -61,14 +61,14 @@ Our system is built on **three interlinked workflows**, each performing specific
 ---
 
 
-## 🤝 Contributors
+##  Contributors
 
 - [Harsh Yadav]
 - [Meena Ramachandran Kandimadai]
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This system removes human bias, enables high-frequency decision-making, and ensures seamless, data-driven DeFi trading with zero manual effort. It’s not just a bot—it’s an AI trading assistant.
 
