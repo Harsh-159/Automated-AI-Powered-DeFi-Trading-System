@@ -17,7 +17,7 @@ Manual trading in crypto is time-consuming and emotionally driven. Traders often
 ---
 
 ## System Architecture & Methodology
-
+![Architecture](images/architechture.png)
 Our system is built on **three interlinked workflows**, each performing specific tasks:
 
 ### 1.  Trading Workflow (Runs 3x Daily)
