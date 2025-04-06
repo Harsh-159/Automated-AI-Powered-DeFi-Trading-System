@@ -1,0 +1,14 @@
+main_trading
+use dex_scanner to get top 15 booseted tokens, use etch scanner agent to get current holdings, then use perplexity agent to get news about all of them, then use trading brain to find top 3 tokens agent to tell 3 best tokens to trade in, check balance using metamask agent, finally use wallet agent to make those transactions using metamask
+
+main_emergency
+get the stocks in the wallet 0xea6c44ac03bff858b476bba40716402b03e41b8e97e276d1baec7c37d42484a0 using eth wallet tracker. Then use Perplexity to get detailed news about each of them, including whale activity, market sentiment, government policies, major partnerships, regulatory changes, and any significant ecosystem developments. Then use danger_finder agent to find if there are any stocks at risk, if there are then trigger the project https://api.openserv.ai/webhooks/tasks/15785/trigger/6aad704cf34a422e9ee6a3ec681e34d1
+
+main_gmail
+track activity of the crypto account 0x2546BcD3c84621e976D8185a91A922aE77ECEc30 and generate a detiled report using general assistant of that account, finally send that report to swfit1005@gmail.com weekly
+
+main_project
+every hour trigger the project https://api.openserv.ai/webhooks/tasks/15785/trigger/6aad704cf34a422e9ee6a3ec681e34d1
+furthur more every 15 minuter trigger the project https://api.openserv.ai/webhooks/tasks/16896/trigger/952c4a7cceda4a1c91b77aebcba79c54
+finally every week trigger the project 
+https://api.openserv.ai/webhooks/tasks/15717/trigger/e58d9734d14e417d986e1f0e05f66c57
