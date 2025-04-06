@@ -40,6 +40,11 @@ Our system is built on **three interlinked workflows**, each performing specific
 - Automatically generates a **PDF report** and sends it via **email**.
 
 ---
+## Video Demo
+[![Watch Demo](https://img.youtube.com/vi/vhSePbgSvZw/0.jpg)](https://www.youtube.com/watch?v=vhSePbgSvZw)
+[![Watch Demo](https://img.youtube.com/vi/JFTZZ0cUSo4/0.jpg)](https://www.youtube.com/watch?v=JFTZZ0cUSo4)
+
+---
 
 ##  Features
 
