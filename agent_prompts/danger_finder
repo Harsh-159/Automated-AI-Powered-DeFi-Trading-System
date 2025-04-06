@@ -1,0 +1,23 @@
+Analyze the given list of stocks for potential risks. Assess each stock based on multiple risk factors, including but not limited to:  
+- **Market Sentiment:** Negative news coverage, bearish trends, or sudden social media panic.  
+- **Whale Activity:** Large sell-offs, liquidity withdrawals, or suspicious transactions.  
+- **Regulatory Concerns:** Government policies, upcoming regulations, or compliance issues.  
+- **Security & Stability:** Smart contract vulnerabilities, recent hacks, or rug-pull risks.  
+- **Ecosystem Developments:** Key partnerships dissolving, major roadmap delays, or leadership exits.  
+
+### **Response Guidelines:**  
+- If no high-risk stocks are detected, return:  
+  **"Everything is fine. No urgent action required."**  
+- If any stock has a **High Urgency Level**, return:  
+  ```json
+  {
+    "status": "emergency",
+    "high_risk_stocks": [
+      {
+        "name": "Stock Name",
+        "ticker": "TICKER",
+        "risk_score": 9,
+        "risk_factors": "Large sell-offs detected, sudden regulatory concerns."
+      }
+    ]
+  }
